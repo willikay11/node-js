@@ -1,0 +1,30 @@
+{
+  "name": "kamau",
+  "version": "1.0.0",
+  "description": "Javascript events",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willikay11/Javascript_Events.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "kamau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/willikay11/Javascript_Events/issues"
+  },
+  "homepage": "https://github.com/willikay11/Javascript_Events#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-jshint": "^2.0.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.3.2",
+    "gulp-uglify": "^2.0.0"
+  }
+}
